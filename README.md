@@ -1,3 +1,5 @@
 # Rating Prediction
 
-The rise in e-commerce, has brought a significant rise in the importance of customer reviews. Rating prediction is a well-known recommendation task aiming to predict a user’s rating for those items which were not rated yet by them. 
+The rise in e-commerce, has brought a significant rise in personalised recommendations. Personalised recommendations are often based on rating predictions, and thus accurate rating prediction is essential for generating useful recommendations. Many researches have proposed various recommendation methods based on the analysis of users’ ratings.
+
+In this article we will do a exploratory data analysis of amazon'z best seller authors, retrieve meaningful insights, find similar books and predict user ratings.
